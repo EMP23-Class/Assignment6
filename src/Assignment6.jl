@@ -1,4 +1,4 @@
-module Assignment5
+module Assignment6
 
 using PATHSolver
 # TODO add this license string
@@ -13,4 +13,4 @@ include("solve_bilevel.jl")
 
 export solve_lmcp, solve_bilevel
 
-end # module Assignment5
+end # module Assignment6
