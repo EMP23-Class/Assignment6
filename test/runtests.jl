@@ -1,5 +1,5 @@
 using Test
-using Assignment5
+using Assignment6
 using Random
 
 include("test_lmcp.jl")
