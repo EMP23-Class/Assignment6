@@ -1,4 +1,4 @@
-# Assignment5
+# Assignment6
 # Instructions
 1. A linear mixed complementarity problem is a generalization of the LCP. This
    formulation is parameterized by a square matrix M, and vectors q, l, and u.
